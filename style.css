@@ -1,0 +1,27 @@
+
+.mindmapiframe {
+height: 1600px;
+width: 1600px;
+}
+iframe {
+height: 1600px;
+width: 1600px;
+}
+
+img {
+margin-top: 200px;
+height: 140%;
+width: auto;
+    margin: 0 auto;
+}
+
+h2 {
+
+margin-top: 500px;
+}
+
+
+.animations img {
+height: 100px;
+width: auto;
+}
